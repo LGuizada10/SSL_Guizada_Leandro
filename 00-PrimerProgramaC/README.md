@@ -1,0 +1,1 @@
+Para éste TP n0 se deberan seguir con los pasos para instalacion de software, construir tu primer repositorio y algunos archivos. Luego se deberá pushear y quedarán registrados en tu repositorio con los commits
